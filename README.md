@@ -1,3 +1,6 @@
 # JS-Task
 
-bir function yazirsiz arrayde olan tek ededleri toplayib qaytarsin.
+Task-1
+Bir function yazirsiz arrayde olan tek ededleri toplayib qaytarsin.
+
+Təkrarlamaq.
